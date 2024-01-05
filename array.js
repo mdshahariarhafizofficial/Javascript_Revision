@@ -40,3 +40,6 @@ console.log(age);
 var point = age.slice(3, 5);
 console.log("After Slice");
 console.log(point);
+
+
+

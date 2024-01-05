@@ -4,3 +4,5 @@ console.log("Hello JS");
 
 // 1. Variable
 // 2. if-else (Conditional)
+// 3. Array
+// 4. Loop

@@ -28,5 +28,5 @@ function leapYearCheck(year){
     };
 }
 
-leapYearCheck(1918);
+leapYearCheck(1700);
 leapYearCheck(4556);

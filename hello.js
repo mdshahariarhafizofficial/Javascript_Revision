@@ -11,3 +11,10 @@ console.log("Hello JS");
 
 // Switch Case
 // Object, key value pair
+
+let x = 50;
+let y = 88 + "50";
+let z = "hello" + 100;
+console.log(typeof x);
+console.log(typeof y);
+console.log(typeof z);
